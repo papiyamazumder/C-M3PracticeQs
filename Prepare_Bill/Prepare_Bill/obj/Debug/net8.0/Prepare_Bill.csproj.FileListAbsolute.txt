@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\bin\Debug\net8.0\Prepare_Bill.exe
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\bin\Debug\net8.0\Prepare_Bill.deps.json
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\bin\Debug\net8.0\Prepare_Bill.runtimeconfig.json
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\bin\Debug\net8.0\Prepare_Bill.dll
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\bin\Debug\net8.0\Prepare_Bill.pdb
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.AssemblyInfo.cs
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.dll
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\refint\Prepare_Bill.dll
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.pdb
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\Prepare_Bill.genruntimeconfig.cache
+C:\Projects\C# Projects\Prepare_Bill\Prepare_Bill\obj\Debug\net8.0\ref\Prepare_Bill.dll
